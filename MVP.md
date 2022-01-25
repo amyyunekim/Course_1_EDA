@@ -46,12 +46,12 @@
 
 ### 2.   
 
-**Deep dive into Hurricane Ida 9/1/2021**
+**Deep dive into Storm day 10/26/2021**
 #### Graph 1
-<img src="top_decreases.png" width="500">
+<img src="/graphs/top_decreases.png" width="500">
 
 #### Graph 2
-<img src="top_increases.png" width="500">
+<img src="/graphs/top_increases.png" width="500">
 
 
 <br>
