@@ -2,9 +2,6 @@
 20210901_hourly.csv
 Daily_Precipitation.ipynb
 GHCN - Daily Documentation.pdf
-MTA_EDA_20210901.ipynb
-MTA_EDA_corrrelation.ipynb
-MTA_EDA_daily_correlation.ipynb
 MTA_EDA_hourly.ipynb
 MTA_Exercises_Amy_Kim.ipynb
 NYC_precipitation_2021.csv
@@ -28,12 +25,13 @@ ts_Field_Description.txt
 MTA_EDA_zscore.ipynb
 MTA_mapping.ipynb
 _archive/
-# graphs/
+graphs/
 map_corr.png
 mta-pair-3-exercises.ipynb
 mta-pair-3-solution.ipynb
 nyc_transit_location_data.csv
 shape_c36061.zip
 top_p_decreases-20221026.png
+Presentation.pptx
 ~$Presentation.pptx
 NYC Stormwater Flood Map - Extreme Flood.gdb/

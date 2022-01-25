@@ -25,14 +25,14 @@
 
 **Scatterplot**
 
-<img src="prcp_vs_entries_exits.png" width="500">
+<img src="/graphs/prcp_vs_entries_exits.png" width="500">
 
 
 <br>
 
 **Overall Correlation between total entries/exits & precipitation**
 
-<img src="correlation.png" width="250">
+<img src="/graphs/correlation.png" width="250">
 
 
 <br>
@@ -40,7 +40,7 @@
 **Correlation between total entries/exits & precipitation by station**
 | Top 10 negatively correlated stations| Top 10 positively correlated stations| 
 | --------------- | --------------- | 
-| <img src="top_neg_corr.png" width= "200"> |<img src="top_pos_corr.png" width= "200"> | 
+| <img src="/graphs/top_neg_corr.png" width= "200"> |<img src="/graphs/top_pos_corr.png" width= "200"> | 
 
 <br>
 
